@@ -7,7 +7,9 @@ To develop a neural network classification model for the given dataset.
 The Iris dataset consists of 150 samples from three species of iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width. The goal is to build a neural network model that can classify a given iris flower into one of these three species based on the provided features.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="1047" height="405" alt="Screenshot 2026-10-28 113626" src="https://github.com/user-attachments/assets/538a40f1-4d62-4f6c-9f75-48c4f46a8e53" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
